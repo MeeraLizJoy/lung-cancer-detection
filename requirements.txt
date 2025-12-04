@@ -1,0 +1,35 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+
+# Deep learning frameworks (choose one or both)
+tensorflow
+torch
+torchvision
+
+# Image processing
+opencv-python
+Pillow
+
+# Visualization 
+matplotlib
+seaborn
+
+# Dataset utilities
+tqdm
+python-slugify
+
+# Kaggle API (for dataset download)
+kaggle
+
+# Jupyter notebook (if using notebooks)
+notebook
+ipykernel
+
+# Optional (for YAML configs)
+PyYAML
+
+
+streamlit
+plotly

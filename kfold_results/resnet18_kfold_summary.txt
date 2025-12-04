@@ -1,0 +1,8 @@
+Model: resnet18
+Hyperparameters: {'lr': 5e-05, 'weight_decay': 0.001, 'dropout': 0.5}
+Number of Folds: 5
+Epochs per Fold: 10
+
+Mean Validation Accuracy: 0.9942
+Std Validation Accuracy: 0.0049
+Individual Fold Accuracies: [0.9855072463768116, 0.9963768115942029, 1.0, 0.9963636363636363, 0.9927272727272727]
