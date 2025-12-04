@@ -1,36 +1,4 @@
-lung_cancer_detection/
-│
-├── data/
-│   ├── raw/               # Raw lung CT scan images
-│   ├── processed/         # Preprocessed & augmented images
-│   ├── train/             # Training dataset split
-│   ├── val/               # Validation dataset split
-│   └── test/              # Test dataset split
-│
-├── notebooks/             # Jupyter notebooks for EDA & experiments
-│   └── exploratory_data_analysis.ipynb
-│
-├── src/
-│   ├── __init__.py
-│   ├── data_preprocessing.py   # Image loading, resizing, normalization functions
-│   ├── model.py                # Transfer learning model definition
-│   ├── train.py                # Training pipeline and callbacks
-│   ├── evaluate.py             # Model evaluation and metrics
-│   ├── predict.py              # Inference script
-│   └── utils.py                # Utility/helper functions
-│
-├── requirements.txt        # Python libraries and versions
-├── config.yaml             # Hyperparameters, dataset paths, training options
-├── README.md               # Project overview, instructions, results
-├── LICENSE                 # Open source license if applicable
-├── .gitignore              # Git ignore file to exclude data/models
-└── app.py                  # Optional: Flask/FastAPI app for demonstration or deployment
-
-
-
-
-
-Here is a clear end-to-end project pipeline for your Lung Cancer Detection via Transfer Learning project:
+### Lung Cancer Detection via Transfer Learning project:
 
 ## Project Pipeline
 
