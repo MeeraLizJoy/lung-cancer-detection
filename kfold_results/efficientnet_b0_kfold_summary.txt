@@ -1,8 +1,0 @@
-Model: efficientnet_b0
-Hyperparameters: {'lr': 0.0005, 'weight_decay': 0.0001, 'dropout': 0.2}
-Number of Folds: 5
-Epochs per Fold: 10
-
-Mean Validation Accuracy: 0.9964
-Std Validation Accuracy: 0.0023
-Individual Fold Accuracies: [0.9927536231884058, 0.9963768115942029, 1.0, 0.9963636363636363, 0.9963636363636363]
